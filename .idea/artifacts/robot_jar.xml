@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="robot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/robot_jar</output-path>
+    <root id="root">
+      <element id="archive" name="robot.jar">
+        <element id="module-output" name="robot" />
+      </element>
+      <element id="library" level="project" name="miglayout-4.0-swing" />
+      <element id="library" level="project" name="jetray_2.9.0-1-0.2.4" />
+    </root>
+  </artifact>
+</component>
